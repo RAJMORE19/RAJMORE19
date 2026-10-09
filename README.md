@@ -2,11 +2,17 @@
 
 ### DevOps Engineer | Linux | AWS | Terraform | Jenkins | Kubernetes
 
-I’m a DevOps Engineer with hands-on experience in Linux, AWS, Terraform, Jenkins, Docker, and Kubernetes.
+DevOps Engineer with hands-on experience in cloud infrastructure, Infrastructure as Code (IaC), CI/CD automation, and containerization.
 
-🛠️ **Tech Stack:** Linux | AWS | Terraform | Jenkins | Docker | Kubernetes
+## 🛠️ Technical Skills
 
-🚀 **Focus:** Cloud Infrastructure | Automation | CI/CD | Containerization
+* **Operating System:** Linux
+* **Cloud Platform:** AWS
+* **Infrastructure as Code:** Terraform
+* **CI/CD:** Jenkins
+* **Containerization & Orchestration:** Docker, Kubernetes
 
-📫 **Email:** [rajmore2023@gmail.com](mailto:rajmore2023@gmail.com)
-💼 **LinkedIn:** https://linkedin.com/in/rajmore-devops
+## 📫 Connect with Me
+
+* **Email:** [rajmore2023@gmail.com](mailto:rajmore2023@gmail.com)
+* **LinkedIn:** https://linkedin.com/in/rajmore-devops
